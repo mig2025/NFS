@@ -1,5 +1,5 @@
 Vagrant стенд для NFS:
-
+-----
 Рабочее место: Windwos 11, Virtual Box 7.0.18, Visual Studio Code
 
 Vagrantfile поднимает -> VM NFS-Server->192.168.56.10, VM NFS-Client->192.168.56.11 -> Ubuntu 22.04
